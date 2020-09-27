@@ -865,6 +865,20 @@
       "name": "Maker",
       "symbol": "MKR",
       "decimals": 18
+    },
+    {
+      "address": "0x14EB60F5f270B059B0c788De0Ddc51Da86f8a06d",
+      "chainId": 1,
+      "name": "Phantasma Energy (KCAL)",
+      "symbol": "KCAL",
+      "decimals": 10
+    },
+    {
+      "address": "0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD",
+      "chainId": 1,
+      "name": "Phantasma Stake (SOUL)",
+      "symbol": "SOUL",
+      "decimals": 8
     }
   ]
 }
